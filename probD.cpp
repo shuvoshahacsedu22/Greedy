@@ -13,5 +13,6 @@ for(int i=0;i<n;i++)
 sum+=abs(a[i]-b[i]);
 }
 cout<<sum<<endl;
+return 0;
 }
 
